@@ -11,7 +11,7 @@
 
 本项目作者不对任何违反用户所在地区法律的行为负责。
 
-本项目与 Developer: Meloog、网易公司、Mojang Studios 无任何关联。
+本项目与 Developer: Meloong、网易公司、Mojang Studios 无任何关联。
 
 ### 功能范围声明
 ⚠️ 本项目仅恢复了 Plain Craft Launcher 2 的自动安装功能，整合包安装功能并未恢复。
@@ -47,7 +47,7 @@ Due to regulatory reasons, this project does not support users in mainland China
 
 The author accepts no responsibility for any use that violates the laws of the user's jurisdiction.
 
-Not affiliated with Developer: Meloog, NetEase, or Mojang Studios.
+Not affiliated with Developer: Meloong, NetEase, or Mojang Studios.
 
 ### Scope Statement
 ⚠️ Only restores automatic installation. Modpack installation is NOT restored.
